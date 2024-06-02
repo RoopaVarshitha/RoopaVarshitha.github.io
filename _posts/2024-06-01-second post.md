@@ -43,7 +43,7 @@ miscellaneous|	2004|
 
 DATA SET|	NO OF TOKENS|	NO OF ENTITIES|
 |------|------|------|
-Train|	33597	4382|
+Train|	33597|	4382|
 Test|	14399|	1878|
 Total|	47996|	6260|
 

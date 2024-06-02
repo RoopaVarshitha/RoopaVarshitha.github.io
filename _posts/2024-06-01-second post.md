@@ -38,7 +38,7 @@ Dataset
 
 
 |NAMED ENTITY TAG| 	MEANING|
-|------|------|------|
+|------|------|
 |person|	1563|
 |location|	1915|
 |organization| 778|

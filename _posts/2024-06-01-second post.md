@@ -34,13 +34,15 @@ Eg: Telugu word Rana is a name but can also be used a verb is different context.
 | organization | organization name |Google గూగుల్ |
 | miscellanous | number, data, event, things ,year and, occupation | 1977 |
 
+Dataset
 
-NAMED ENTITY TAG| 	MEANING|
+
+|NAMED ENTITY TAG| 	MEANING|
 |------|------|------|
-person|	1563|
-location|	1915|
-organization| 778|
-miscellaneous|	2004|
+|person|	1563|
+|location|	1915|
+|organization| 778|
+|miscellaneous|	2004|
 
 
 DATA SET|	NO OF TOKENS|	NO OF ENTITIES|

@@ -22,6 +22,7 @@ Eg: Telugu word Rana is a name but can also be used a verb is different context.
 ### [Dataset Link](https://github.com/Hanvitha-51/NER_Telugu/tree/main/Dataset)
 
 ### Data Collection
+
    1. GLiNER
    2. Form of Information  Retreval Evaluation(FIRE)
    3. fastText word vectors

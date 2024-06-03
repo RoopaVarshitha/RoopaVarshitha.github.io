@@ -6,7 +6,7 @@ author: RoopaVarshitha
 
 ## Introduction
 
-![MEE](/assets/Roopa.png){: width="500"}
+![MEE](/assets/Roopa.jpg){: width="500"}
 
 Welcome to my design portfolio! I am Roopa Varshitha, 
 I am an Artist and a Graphic designer with a passion for creating innovative and impactful designs. I strive to deliver solutions that not only meet but exceed client expectations.

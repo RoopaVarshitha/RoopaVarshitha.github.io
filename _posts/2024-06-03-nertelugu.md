@@ -27,7 +27,7 @@ Design Skills:
 
 ,Painiting, Canva, Adobe Photoshop, Adobe Premiere Pro.  
 
-![MEE](/assets/Roopa.jpg){: width="500"}
+![MEE](assets/WhatsApp Image 2024-06-03 at 12.08.50_e957905c.jpg){: width="500"}
 
 
 

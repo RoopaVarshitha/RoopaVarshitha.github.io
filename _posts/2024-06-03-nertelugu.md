@@ -27,7 +27,7 @@ Design Skills:
 
 Painiting, Canva, Adobe Photoshop, Adobe Premiere Pro.  
 
-![My Art](assets/paint.jpg)
+![My Art](/assets/paint.jpg)
 
 
 

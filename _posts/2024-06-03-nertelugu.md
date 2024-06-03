@@ -17,13 +17,18 @@ All the videos mentioned below are directed shot and edited by me:)
 ## Experience
 
 1. I am the HEAD OF DESIGN of Art Club in Mahindra Univeristy. I have organised numerous activities in our campus.
-2. I am the owner of a Portrait Stall, in which I make portraits of the customers in under 10 mins.The stall was help for a week in Mahindra University. 
+2. I am the owner of a Portrait Stall, in which I make portraits of the customers in under 10 mins.The stall was help for a week in Mahindra University.
+(/assets/Roopa.jpg){: width="500"}
+![My stall](/assets/WhatsApp Image 2024-06-03 at 12.08.50_2d800128.jpg)
 
 ## Skills
 
 Design Skills:
 
-Canva, Adobe Photoshop, Adobe Premiere Pro.  
+,Painiting, Canva, Adobe Photoshop, Adobe Premiere Pro.  
+
+![MEE](/assets/Roopa.jpg){: width="500"}
+
 
 
 
